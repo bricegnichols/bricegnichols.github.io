@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+        <title>Jekyll Bootstrap</title>
+        <description>Jekyll Bootstrap - Name Lastname</description>
+        <link>http://username.github.io</link>
+        <atom:link href="http://username.github.io/rss.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Mon, 25 Apr 2016 20:14:23 -0700</lastBuildDate>
+        <pubDate>Mon, 25 Apr 2016 20:14:23 -0700</pubDate>
+        <ttl>60</ttl>
+
+
+        <item>
+                <title>Introduction</title>
+                <description>
+&lt;p&gt;This is some more junk on the internet.&lt;/p&gt;
+
+&lt;h2 id=&quot;junk&quot;&gt;Junk&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-is-junk&quot;&gt;What is junk?&lt;/h3&gt;
+
+&lt;p&gt;Junk is generally garbage, litter, waste, crap.&lt;/p&gt;
+
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
+
+&lt;p&gt;See rubbish, refuse, compost.&lt;/p&gt;
+</description>
+                <link>http://username.github.io/lessons/2016/04/25/introduction</link>
+                <guid>http://username.github.io/lessons/2016/04/25/introduction</guid>
+                <pubDate>Mon, 25 Apr 2016 00:00:00 -0700</pubDate>
+        </item>
+
+        <item>
+                <title>Jekyll Introduction</title>
+                <description>
+&lt;p&gt;This is some more junk on the internet.&lt;/p&gt;
+
+&lt;h2 id=&quot;junk&quot;&gt;Junk&lt;/h2&gt;
+
+&lt;h3 id=&quot;what-is-junk&quot;&gt;What is junk?&lt;/h3&gt;
+
+&lt;p&gt;Junk is generally garbage, litter, waste, crap.&lt;/p&gt;
+
+&lt;h3 id=&quot;examples&quot;&gt;Examples&lt;/h3&gt;
+
+&lt;p&gt;See rubbish, refuse, compost.&lt;/p&gt;
+</description>
+                <link>http://username.github.io/lessons/2011/12/29/jekyll-introduction</link>
+                <guid>http://username.github.io/lessons/2011/12/29/jekyll-introduction</guid>
+                <pubDate>Thu, 29 Dec 2011 00:00:00 -0800</pubDate>
+        </item>
+
+
+</channel>
+</rss>
