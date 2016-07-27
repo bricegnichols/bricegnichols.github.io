@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Brice Nichols
+tagline: on transport, tech, and trivialities
 ---
 {% include JB/setup %}
 
-# Hola mundo!
-
+This is a homestead, just a simple markdown page for now, but just you wait and see!
