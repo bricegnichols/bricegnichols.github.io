@@ -5,10 +5,21 @@
         <description>Jekyll Bootstrap - Name Lastname</description>
         <link>http://username.github.io</link>
         <atom:link href="http://username.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 25 Apr 2016 20:44:29 -0700</lastBuildDate>
-        <pubDate>Mon, 25 Apr 2016 20:44:29 -0700</pubDate>
+        <lastBuildDate>Thu, 11 Aug 2016 21:29:04 -0700</lastBuildDate>
+        <pubDate>Thu, 11 Aug 2016 21:29:04 -0700</pubDate>
         <ttl>60</ttl>
 
+
+        <item>
+                <title>auto push</title>
+                <description>
+&lt;h1 id=&quot;hi-this-is-a-guy-with-a-computer&quot;&gt;HI THIS IS A GUY WITH A COMPUTER&lt;/h1&gt;
+&lt;p&gt;HI PEOPLE&lt;/p&gt;
+</description>
+                <link>http://username.github.io/2016/08/11/auto-push</link>
+                <guid>http://username.github.io/2016/08/11/auto-push</guid>
+                <pubDate>Thu, 11 Aug 2016 00:00:00 -0700</pubDate>
+        </item>
 
         <item>
                 <title>Introduction</title>
